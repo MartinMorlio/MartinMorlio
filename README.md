@@ -1,14 +1,14 @@
 ## let Martín= [
   {
-  * _Technologies_: {
+  * _Tecnologías_: {
       1. BackEnd: ['Javascript', 'NodeJs', 'Express', 'Mongoose', 'Sequelize', 'MongoDB', 'SQL'],
       2. FrontEnd: ['Javascript', 'React', 'React-Native', 'Redux', 'HTML', 'CSS']
     },
-  * _Proyects_: {
+  * _Proyectos_: {
       1. CountriesApp: ['React', 'Redux', 'NodeJS', 'Express', 'Sequelize', 'SQL'],
       2. PISkin: ['React', 'Redux', 'NodeJS', 'Express', 'Mongoose', 'MongoDB'], <!-- En proceso -->
     },
-  * _Aspirations_: ['Ciberseguridad']
+  * _Aspiraciones_: ['Ciberseguridad']
 }
 ]:boom:
 
